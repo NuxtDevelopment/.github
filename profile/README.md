@@ -1,12 +1,9 @@
-## Hi there 👋
+![Nuxt Logo](https://cdn.dont-ping.me/api/✌️🐭👋🤘👻.png)
 
-<!--
+# Nuxt Development
 
-**Here are some ideas to get you started:**
+Discover an extraordinary gaming experience with Nuxt! We proudly offer an amazing selection of FiveM add-ons only available on the Tebex platform. Our store is a treasure trove of innovative features and functions designed to push the boundaries of your game. With sleek designs and user-friendly interfaces, each add-on is meticulously crafted to provide your players with an exceptional gaming experience.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Contact Us
+
+Join our [Discord](https://discord.gg/ejUSZ5JCKj) for updates, support and special discounts!
